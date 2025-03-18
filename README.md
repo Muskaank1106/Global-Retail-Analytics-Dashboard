@@ -41,7 +41,7 @@ Scalability: The model can be adapted for real-time data integration and forecas
 
 # Sample Dashboard
 
-![image]
+![image](https://github.com/Muskaank1106/Amazon-Business-Intelligence-Dasboard/blob/main/Power%20BI%20Dasboard.png)
 
 # Future Improvements
 
