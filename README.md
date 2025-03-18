@@ -39,10 +39,9 @@ Actionable Insights: Help businesses optimize pricing, inventory, and marketing 
 
 Scalability: The model can be adapted for real-time data integration and forecasting.
 
-# Project Files & Usage
+# Sample Dashboard
 
-Power BI Dashboard (.pbix) – Full interactive report.
-Excel Dataset (.xlsx) – Cleaned dataset used for analysis.
+![image]
 
 # Future Improvements
 
